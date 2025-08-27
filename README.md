@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF6B6B&height=220&section=header&text=mo2men3ssem&fontSize=56&fontColor=ffffff&fontAlignY=38" alt="banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF6B6B&height=220&section=header&text=Moamen&fontSize=56&fontColor=ffffff&fontAlignY=38" alt="banner" width="100%">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FF6B6B&center=true&vCenter=true&width=600&lines=Frontend+%2B+Mobile+Developer;Angular+%7C+React+%7C+Flutter;Clean+UI%2FUX+%26+Performance+Focused;Open+Source+Enjoyer+%26+Lifelong+Learner" alt="typing" />
 
@@ -45,8 +45,6 @@
 <picture>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo2men3ssem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top languages" />
 </picture>
-
-<img src="https://streak-stats.dev/?user=mo2men3ssem&theme=tokyonight&hide_border=true" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo2men3ssem&theme=github-dark-dimmed&hide_border=true&area=true" alt="activity graph" />
 
